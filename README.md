@@ -1,4 +1,3 @@
-# spamclassifier
 
 Creating conda env
 
@@ -17,7 +16,3 @@ Install requirements.txt
 ```
 pip install -r requirements.txt
 ```
-
-### Data Preprocessing Pipeline
-
-![Image](images/data-processing-pipeline.JPG)
